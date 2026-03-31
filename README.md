@@ -1,5 +1,7 @@
+![Banner](https://img.freepik.com/free-vector/development-typographic-header-presenting-content-web-pages-website-layout-composition-color-development-idea-computer-technology-flat-vector-illustration_613284-2493.jpg?t=st=1774977379~exp=1774980979~hmac=f608c70f0480f3d8340640b4e386ae40bcb527eeda40bd2276b7b03d25d3099f&w=1480)
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">💻 Full Stack Developer | ⚡ Building modern, responsive & user-friendly web apps | 🎯 UI/UX focused</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushyadavabd-hub&label=Profile%20views&color=0e75b6&style=flat" alt="ayushyadavabd-hub" /> </p>
 
