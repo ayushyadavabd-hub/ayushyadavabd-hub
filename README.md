@@ -28,5 +28,5 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=aws,c,cpp,css,docker,git,html,java,js,kubernetes,mongodb,mysql,nodejs,postgresql,react,redux,tailwind" />
+<img src="https://skillicons.dev/icons?i=aws,c,cpp,css,git,html,java,js,mongodb,mysql,nodejs,postgresql,react,redux,tailwind" />
 </p>
