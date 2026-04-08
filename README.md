@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">💻 Full Stack Developer | ⚡ Building modern, responsive & user-friendly web apps | 🎯 UI/UX focused</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRiZTl0MXdzd3lnMXpjNDdxOGhydThmY21wZGlqd2M1dXBqNmFrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ayushyadavabd-hub&label=Profile%20views&color=0e75b6&style=flat" />
