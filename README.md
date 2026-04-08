@@ -15,15 +15,15 @@
 - 💬 Ask me about **💬 Full Stack Development (MERN ⚛️🚀), APIs 🔗, Database Design 🗄️ & Frontend UI/UX 🎨**
 - 📫 How to reach me **📫 ayushyadavabd@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 
-<p align="left">
+<!-- <p align="left">
 <a href="https://twitter.com/ayushyadav"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://www.linkedin.com/in/ayush-yadav-7a4582331/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/ayushyadav.abd"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 <a href="https://discord.gg/ayushyadav"><img src="https://skillicons.dev/icons?i=discord" /></a>
 <a href="https://github.com/ayushyadavabd-hub"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
+</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 
