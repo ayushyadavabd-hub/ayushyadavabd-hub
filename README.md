@@ -9,11 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=ayushyadavabd-hub&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-- 🌱 I’m currently learning **🌱 Full Stack Development (React ⚛️, Node.js 🚀, Express ⚙️, MongoDB 🍃)**
-- 👯 I’m looking to collaborate on **🤝 Full Stack Web Development projects (MERN stack, real-world apps)**
-- 🤝 I’m looking for help with **🛠️ Backend integration & APIs**
-- 💬 Ask me about **💬 Full Stack Development (MERN ⚛️🚀), APIs 🔗, Database Design 🗄️ & Frontend UI/UX 🎨**
-- 📫 How to reach me **📫 ayushyadavabd@gmail.com**
+- 🌱 I’m currently learning Full Stack Development (React, Node.js, Express, MongoDB)
+- 🤝 I’m looking to collaborate on Full Stack Web Development projects (MERN stack, real-world apps)
+- 🛠️ I’m looking for help with Backend integration & APIs
+- 💬 Ask me about Full Stack Development, APIs, Database Design & UI/UX
+- 📫 How to reach me: ayushyadavabd@gmail.com
 
 <!-- <h3 align="left">Connect with me:</h3> -->
 
