@@ -25,15 +25,6 @@
 <a href="https://github.com/ayushyadavabd-hub"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p> -->
 
-<h3>GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=ayushyadavabd-hub&theme=github_dark&hide_border=false&card_height=180" width="32%" />
-  
-  <img src="https://streak-stats.demolab.com/?user=ayushyadavabd-hub&theme=github_dark&hide_border=false&card_height=180" width="32%" />
-  
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ayushyadavabd-hub&theme=github_dark&hide_border=false&layout=compact&card_height=180" width="32%" />
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
